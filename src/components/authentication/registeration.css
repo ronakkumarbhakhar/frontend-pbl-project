@@ -1,0 +1,51 @@
+.form{
+    width: 35%;
+    height: 70%;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    border:1px solid #eaeced;
+    border-radius: 8px;
+    box-shadow: inset;
+    text-align: center;
+}
+
+.from h3{
+    margin: auto;
+    font-family: pp-sans-big-regular,Helvetica Neue,Arial,sans-serif;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 100%;
+}
+
+.input{
+    margin-bottom: 5px;
+    font-family: pp-sans-big-regular,Helvetica Neue,Arial,sans-serif;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 100%;
+    border-radius: 25px;
+    height: 40px;
+    width: 75%;
+}
+
+.form label{
+    font-family: pp-sans-big-regular,Helvetica Neue,Arial,sans-serif;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 100%;
+}
+
+#register_btn{
+    margin-bottom: 10px;
+    background-color: #142c8e;
+    color: white;
+    font-family: pp-sans-big-regular,Helvetica Neue,Arial,sans-serif;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 100%;
+    border-radius: 25px;
+    height: 40px;
+    width: 75%;
+}

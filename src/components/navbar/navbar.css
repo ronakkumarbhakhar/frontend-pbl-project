@@ -1,0 +1,19 @@
+.nav{
+    background-color: #142c8e;
+    
+}
+
+.link {
+    font-family: pp-sans-big-regular,Helvetica Neue,Arial,sans-serif;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 100%;
+    color: aliceblue;
+}
+
+.link:active{
+    color: white;
+}
+.link:hover{
+    color: antiquewhite;
+}

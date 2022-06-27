@@ -1,0 +1,11 @@
+.card_style{
+    width:18rem;
+    height: max-content;
+}
+
+.cards{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
